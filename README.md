@@ -6,7 +6,7 @@
 
 The purpose of this project is to apply `Natural Languague Techniques`, concretly, `sentiment analysis` to transcripts and description of several youtube videos. 
 
-The choseen topic is the videogame `Cyberpunk 20177` and the data was scrapped from Youtube 6 days after the game was released.
+The chosen topic is the videogame `Cyberpunk 20177` and the data was scrapped from `Youtube 6 days after the game was released`.
 
 ## Technical details about thje project:
 
