@@ -1,6 +1,6 @@
 # Sentiment analysis performed on the transcripts and titles of youtube videos related to the game Cyberpunk 2077
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT) 
 
 [![Cyberpunk 2077](https://i.ytimg.com/vi/8X2kIfS6fb8/maxresdefault.jpg)
 
