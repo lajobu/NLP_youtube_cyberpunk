@@ -21,14 +21,7 @@ The choseen topic is the videogame `Cyberpunk 20177` and the data was scrapped f
 3) The audio of each video was extracted as `wav` format
 4) `Speech recognition` was performed for the first `3 minutes of each video`
 
-- Result: `136 videos` with the following features:
-
--- `url`
--- `description`
--- `duration`
--- `views`
--- `transcript`
--- `rating`
+- Result: `136 videos` with the following features: `url`, `description`, `duration`, `views`, `transcript` and `rating`
 
 :link: [Data extraction](https://github.com/lajobu/NLP_youtube_cyberpunk/blob/main/1.data_extraction.ipynb)
 
