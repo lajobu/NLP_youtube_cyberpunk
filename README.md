@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-[![Cyberpunk 2077](https://i.ytimg.com/vi/8X2kIfS6fb8/maxresdefault.jpg)
+[![Cyberpunk 2077](https://i.ytimg.com/vi/8X2kIfS6fb8/maxresdefault.jpg)]
 
 The purpose of this project is to apply `Natural Languague Techniques`, concretly, `sentiment analysis` to transcripts and description of several youtube videos. 
 
