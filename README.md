@@ -33,18 +33,18 @@ The chosen topic is the videogame `Cyberpunk 20177` and the data was scrapped fr
 
 ## Some figures:
 
-- Audio representation:
+### Audio representation:
 ![alt text](https://github.com/lajobu/NLP_youtube_cyberpunk/blob/main/Figures/output_19_1.png)
 
-- Density plot of rating feature:
+### Density plot of rating feature:
 
 ![alt text](https://github.com/lajobu/NLP_youtube_cyberpunk/blob/main/Figures/rating_distribution.png)
 
-- Wodcloud on Description, not liked group:
+### Wodcloud on Description, not liked group:
 
 ![alt text](https://github.com/lajobu/NLP_youtube_cyberpunk/blob/main/Figures/words1_nl.png)
 
-- Wodcloud on Description, liked group:
+### Wodcloud on Description, liked group:
 
 ![alt text](https://github.com/lajobu/NLP_youtube_cyberpunk/blob/main/Figures/words2_l.png)
 
